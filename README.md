@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DarkerInker
+- 👀 I’m interested in Coding Cool Things :D
+- 🌱 I’m currently learning Java, Javascript and TypeScript
